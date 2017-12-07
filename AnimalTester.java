@@ -8,5 +8,6 @@ public class AnimalTester {
 		
 		// TODO print the name of the owner and the lion to the console
 		
+		System.out.println("now I am on a branch");
 	}
 }

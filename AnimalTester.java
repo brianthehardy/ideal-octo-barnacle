@@ -7,6 +7,6 @@ public class AnimalTester {
 		// TODO create an owner for the lion e.g., Owner owner = new Owner(...);
 		
 		// TODO print the name of the owner and the lion to the console
-		
+		System.out.println("asdf");	// added some stuff
 	}
 }
